@@ -51,4 +51,4 @@ app.delete("/torles", async (req, res) => {
 });
 app.listen(port, () => {
     console.log("Szerver fut a " + port + " porton!");
-}); 
+}); ;
